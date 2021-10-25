@@ -23,7 +23,7 @@
                         label = "QWERTY";
                         bindings = <
    &kp TAB              &kp Q    &kp W    &kp E    &kp R    &kp T                       &kp Y    &kp U    &kp I       &kp O      &kp P       &kp BSLH
-   &lt NUMBER GRAVE     &kp A    &kp S    &kp D    &kp F    &kp G                       &kp H    &kp J    &kp K       &kp L      &kp QUOT    &lt NUMBER SQT
+   &lt NUMBER GRAVE     &kp A    &kp S    &kp D    &kp F    &kp G                       &kp H    &kp J    &kp K       &kp L      &kp SEMI    &lt NUMBER SQT
    &kp LSHFT            &kp Z    &kp X    &kp C    &kp V    &kp B                       &kp N    &kp M    &kp CMMA    &kp DOT    &kp FSLH    &kp RSFT
                                                    &mo TEXT &kp LCTL &kp BSPC   &kp SPC &kp RALT &kp RGUI
                         >;
